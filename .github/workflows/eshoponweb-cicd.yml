@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 240c9581-67ea-468b-b68e-1f7123119c34
-  WEBAPP-NAME: eShopOnWeb_sai_app_091123
+  WEBAPP-NAME: eShopOnWeb-sai-app-091123
 
 
 jobs:
